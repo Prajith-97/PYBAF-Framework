@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Forgot password",
+    "features": [
+      {
+        "feature": [
+          {
+            "platform": "chrome",
+            "name": "Forgot password",
+            "description": "To check forgot password functionality and bus button",
+            "starttime": "2023-05-16 12:17:55",
+            "endtime": "2023-05-16 12:18:05",
+            "FeatureStatus": "FAILED",
+            "scenarios": [
+              {
+                "scenario": {
+                  "name": "Enter Email ID",
+                  "severity": "",
+                  "tags": [
+                    "smoke",
+                    "comfort"
+                  ],
+                  "duration": 6593,
+                  "status": "FAILED",
+                  "steps": [
+                    {
+                      "step": {
+                        "name": "user is on the homepage",
+                        "screenshot": "C:\\Users\\PrajithThacharazhiya\\PycharmProjects\\PYBAF\\TestReports\\16-05-2023\\16-05-2023 121722\\Screenshots\\ 121757.png",
+                        "status": "Passed",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "user clicks on My Account button",
+                        "screenshot": "C:\\Users\\PrajithThacharazhiya\\PycharmProjects\\PYBAF\\TestReports\\16-05-2023\\16-05-2023 121722\\Screenshots\\ 121801.png",
+                        "status": "Passed",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "user clicks on Login button",
+                        "screenshot": "C:\\Users\\PrajithThacharazhiya\\PycharmProjects\\PYBAF\\TestReports\\16-05-2023\\16-05-2023 121722\\Screenshots\\ 121804.png",
+                        "status": "Passed",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "user can enter email id on login page",
+                        "screenshot": "C:\\Users\\PrajithThacharazhiya\\PycharmProjects\\PYBAF\\TestReports\\16-05-2023\\16-05-2023 121722\\Screenshots\\ 121804.png",
+                        "status": "Failed",
+                        "errorMsg": "'Credentials'"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "scenario": {
+                  "name": "Select Bus Button",
+                  "severity": "",
+                  "tags": [
+                    "comfort"
+                  ],
+                  "duration": 0,
+                  "status": "SKIPPED",
+                  "steps": [
+                    {
+                      "step": {
+                        "name": "user is on the homepage",
+                        "screenshot": "",
+                        "status": "Skipped",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "user clicks on bus button",
+                        "screenshot": "",
+                        "status": "Skipped",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "user press search bus button",
+                        "screenshot": "",
+                        "status": "Skipped",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "redirected to search listing page",
+                        "screenshot": "",
+                        "status": "Skipped",
+                        "errorMsg": ""
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "feature": [
+          {
+            "platform": "edge",
+            "name": "Forgot password",
+            "description": "To check forgot password functionality and bus button",
+            "starttime": "2023-05-16 12:18:36",
+            "endtime": "2023-05-16 12:18:43",
+            "FeatureStatus": "FAILED",
+            "scenarios": [
+              {
+                "scenario": {
+                  "name": "Enter Email ID",
+                  "severity": "",
+                  "tags": [
+                    "smoke",
+                    "comfort"
+                  ],
+                  "duration": 5680,
+                  "status": "FAILED",
+                  "steps": [
+                    {
+                      "step": {
+                        "name": "user is on the homepage",
+                        "screenshot": "C:\\Users\\PrajithThacharazhiya\\PycharmProjects\\PYBAF\\TestReports\\16-05-2023\\16-05-2023 121722\\Screenshots\\ 121838.png",
+                        "status": "Passed",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "user clicks on My Account button",
+                        "screenshot": "C:\\Users\\PrajithThacharazhiya\\PycharmProjects\\PYBAF\\TestReports\\16-05-2023\\16-05-2023 121722\\Screenshots\\ 121840.png",
+                        "status": "Passed",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "user clicks on Login button",
+                        "screenshot": "C:\\Users\\PrajithThacharazhiya\\PycharmProjects\\PYBAF\\TestReports\\16-05-2023\\16-05-2023 121722\\Screenshots\\ 121843.png",
+                        "status": "Passed",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "user can enter email id on login page",
+                        "screenshot": "C:\\Users\\PrajithThacharazhiya\\PycharmProjects\\PYBAF\\TestReports\\16-05-2023\\16-05-2023 121722\\Screenshots\\ 121843.png",
+                        "status": "Failed",
+                        "errorMsg": "'Credentials'"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "scenario": {
+                  "name": "Select Bus Button",
+                  "severity": "",
+                  "tags": [
+                    "comfort"
+                  ],
+                  "duration": 0,
+                  "status": "SKIPPED",
+                  "steps": [
+                    {
+                      "step": {
+                        "name": "user is on the homepage",
+                        "screenshot": "",
+                        "status": "Skipped",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "user clicks on bus button",
+                        "screenshot": "",
+                        "status": "Skipped",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "user press search bus button",
+                        "screenshot": "",
+                        "status": "Skipped",
+                        "errorMsg": ""
+                      }
+                    },
+                    {
+                      "step": {
+                        "name": "redirected to search listing page",
+                        "screenshot": "",
+                        "status": "Skipped",
+                        "errorMsg": ""
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

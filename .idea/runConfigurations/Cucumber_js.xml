@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Cucumber.js" type="CompoundRunConfigurationType">
+    <toRun name="pytest in test_homepage.py" type="tests" />
+    <method v="2" />
+  </configuration>
+</component>

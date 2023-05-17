@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PYBAF.iml" filepath="$PROJECT_DIR$/.idea/PYBAF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonFramework/.idea/PythonFramework.iml" filepath="$PROJECT_DIR$/../PythonFramework/.idea/PythonFramework.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,213 @@
+1679483972237	geckodriver	INFO	Listening on 127.0.0.1:63877
+1679483975246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63878" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRAJIT~1\\AppData\\Local\\Temp\\rust_mozprofileECcUG0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1679483985075	Marionette	INFO	Listening on port 63889
+1679483985445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://www.yatra.com/3I0fr/tL9N/hMKp/0q/5dp4V/O7r7fNhDr9c3/O0EVBCJVAg/ZQ4o/OWV1cXg, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1679483990205	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/3I0fr/tL9N/hMKp/0q/5dp4V/O7r7fNhDr9c3/O0EVBCJVAg/ZQ4o/OWV1cXg, line 1: unreachable code after return statement
+1679483993924	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1679483994478	Marionette	INFO	Stopped listening on port 63889
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1679484242627	geckodriver	INFO	Listening on 127.0.0.1:64600
+1679484245662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRAJIT~1\\AppData\\Local\\Temp\\rust_mozprofileT2VTBr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1679484255081	Marionette	INFO	Listening on port 64607
+1679484255333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://www.yatra.com/3I0fr/tL9N/hMKp/0q/5dp4V/O7r7fNhDr9c3/O0EVBCJVAg/ZQ4o/OWV1cXg, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1679484259909	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/3I0fr/tL9N/hMKp/0q/5dp4V/O7r7fNhDr9c3/O0EVBCJVAg/ZQ4o/OWV1cXg, line 1: unreachable code after return statement
+1679484263867	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://secure.yatra.com/V3J7Qadme/M/IM7V3edA/NOS9rVcciD/OE1GanRlDQE/O2MeHnM/ZaiE, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/3I0fr/tL9N/hMKp/0q/5dp4V/O7r7fNhDr9c3/O0EVBCJVAg/ZQ4o/OWV1cXg, line 1: unreachable code after return statement
+1679484271915	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1679484272808	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://ebus.yatra.com/DvDSpp40uimEeMEMoA/OGYh0bGpV7/PVQiZgE/ESQmUh/NGOSQ, line 1: unreachable code after return statement
+1679484276956	Marionette	INFO	Stopped listening on port 64607
+1679484283813	geckodriver	INFO	Listening on 127.0.0.1:64803
+1679484286818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRAJIT~1\\AppData\\Local\\Temp\\rust_mozprofile2RMdFr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1679484294577	Marionette	INFO	Listening on port 64812
+1679484294838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://www.yatra.com/3I0fr/tL9N/hMKp/0q/5dp4V/O7r7fNhDr9c3/O0EVBCJVAg/ZQ4o/OWV1cXg, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1679484297530	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/3I0fr/tL9N/hMKp/0q/5dp4V/O7r7fNhDr9c3/O0EVBCJVAg/ZQ4o/OWV1cXg, line 1: unreachable code after return statement
+1679484303890	Marionette	INFO	Stopped listening on port 64812
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1679484310261	geckodriver	INFO	Listening on 127.0.0.1:64943
+1679484313224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRAJIT~1\\AppData\\Local\\Temp\\rust_mozprofileIsv3gh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1679484321325	Marionette	INFO	Listening on port 64953
+1679484321745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://www.yatra.com/3I0fr/tL9N/hMKp/0q/5dp4V/O7r7fNhDr9c3/O0EVBCJVAg/ZQ4o/OWV1cXg, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1679484324351	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/3I0fr/tL9N/hMKp/0q/5dp4V/O7r7fNhDr9c3/O0EVBCJVAg/ZQ4o/OWV1cXg, line 1: unreachable code after return statement
+1679484329324	Marionette	INFO	Stopped listening on port 64953
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1683789342915	geckodriver	INFO	Listening on 127.0.0.1:57574
+1683789345867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRAJIT~1\\AppData\\Local\\Temp\\rust_mozprofileTa1fOb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1683789358193	Marionette	INFO	Listening on port 57584
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1683789368537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1683789373552	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+1683789381882	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://secure.yatra.com/eYpZdWIWo1/6QHw/tEmisp/OaYOtmtb7D7buE/aXtKDWIB/eR/4gO0dYPkM, line 1: unreachable code after return statement
+1683789390033	Marionette	INFO	Stopped listening on port 57584
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1683789670623	geckodriver	INFO	Listening on 127.0.0.1:58239
+1683789673608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58240" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRAJIT~1\\AppData\\Local\\Temp\\rust_mozprofileQN3fH8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1683789681214	Marionette	INFO	Listening on port 58250
+1683789681583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1683789684459	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+1683789689363	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://secure.yatra.com/eYpZdWIWo1/6QHw/tEmisp/OaYOtmtb7D7buE/aXtKDWIB/eR/4gO0dYPkM, line 1: unreachable code after return statement
+1683789698413	Marionette	INFO	Stopped listening on port 58250
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1683789705970	geckodriver	INFO	Listening on 127.0.0.1:58414
+1683789708951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRAJIT~1\\AppData\\Local\\Temp\\rust_mozprofilegeMgHN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1683789716738	Marionette	INFO	Listening on port 58426
+1683789716948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1683789720076	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+1683789725833	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683789728848	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1683789759809	Marionette	INFO	Stopped listening on port 58426
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1683789767991	geckodriver	INFO	Listening on 127.0.0.1:58603
+1683789770992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58604" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRAJIT~1\\AppData\\Local\\Temp\\rust_mozprofileTwskXp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1683789778320	Marionette	INFO	Listening on port 58616
+1683789778455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1683789782029	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+1683789786779	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683789787385	Marionette	INFO	Stopped listening on port 58616
+[Parent 25840, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1683792531459	geckodriver	INFO	Listening on 127.0.0.1:62458
+1683792534463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRAJIT~1\\AppData\\Local\\Temp\\rust_mozprofileTR5uoR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1683792545919	Marionette	INFO	Listening on port 62474
+1683792546257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1683792549567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+1683792554861	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://secure.yatra.com/eYpZdWIWo1/6QHw/tEmisp/OaYOtmtb7D7buE/aXtKDWIB/eR/4gO0dYPkM, line 1: unreachable code after return statement
+1683792563842	Marionette	INFO	Stopped listening on port 62474
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1683792574610	geckodriver	INFO	Listening on 127.0.0.1:62634
+1683792577409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRAJIT~1\\AppData\\Local\\Temp\\rust_mozprofile1DsCyj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1683792587695	Marionette	INFO	Listening on port 62646
+1683792588061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1683792591018	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+1683792595933	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683792598681	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683792630061	Marionette	INFO	Stopped listening on port 62646
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1683792640554	geckodriver	INFO	Listening on 127.0.0.1:62841
+1683792643440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PRAJIT~1\\AppData\\Local\\Temp\\rust_mozprofileTsdIPP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1683792654770	Marionette	INFO	Listening on port 62848
+1683792655251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1683792658678	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/eR4C/KneH/8xGOo/qTXaw/az3hwNrbNaiL/KyMEeFx7bw/PSlwK/WE2HFo, line 1: unreachable code after return statement
+1683792664189	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1683792664852	Marionette	INFO	Stopped listening on port 62848
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 41784, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

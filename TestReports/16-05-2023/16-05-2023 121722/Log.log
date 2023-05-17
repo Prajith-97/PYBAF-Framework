@@ -1,0 +1,66 @@
+2023-05-16 12:17:57: INFO: Located element using xpath
+2023-05-16 12:17:57: INFO: Assertion Passed, Element is displayed
+2023-05-16 12:17:57: INFO: Step passed:user is on the homepage
+2023-05-16 12:18:00: INFO: Located element using xpath
+2023-05-16 12:18:01: INFO: Clicked on the element
+2023-05-16 12:18:01: INFO: Step passed:user clicks on My Account button
+2023-05-16 12:18:01: INFO: Located element using xpath
+2023-05-16 12:18:04: INFO: Clicked on the element
+2023-05-16 12:18:04: INFO: Step passed:user clicks on Login button
+2023-05-16 12:18:04: INFO: Step failed, An exception occurred in step:user can enter email id on login page
+Traceback (most recent call last):
+  File "C:\Users\PrajithThacharazhiya\PycharmProjects\PYBAF\configuretest\ReadTestData.py", line 12, in getTestData
+    jsonData = data[arrayName]
+KeyError: 'Credentials'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PrajithThacharazhiya\PycharmProjects\PYBAF\tests\test_forgotyourpassword.py", line 34, in enterEmailID
+    username = self.r.getTestData("Credentials", "username")
+  File "C:\Users\PrajithThacharazhiya\PycharmProjects\PYBAF\configuretest\ReadTestData.py", line 18, in getTestData
+    raise Exception(e)
+Exception: 'Credentials'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "steps\forgotpassword-definition.py", line 23, in click_resetBtn
+    context.objForgotPassword.enterEmailID()
+  File "C:\Users\PrajithThacharazhiya\PycharmProjects\PYBAF\tests\test_forgotyourpassword.py", line 37, in enterEmailID
+    raise Exception(e)
+Exception: 'Credentials'
+2023-05-16 12:18:05: INFO: Browser closed
+2023-05-16 12:18:38: INFO: Located element using xpath
+2023-05-16 12:18:38: INFO: Assertion Passed, Element is displayed
+2023-05-16 12:18:38: INFO: Step passed:user is on the homepage
+2023-05-16 12:18:40: INFO: Located element using xpath
+2023-05-16 12:18:40: INFO: Clicked on the element
+2023-05-16 12:18:40: INFO: Step passed:user clicks on My Account button
+2023-05-16 12:18:41: INFO: Located element using xpath
+2023-05-16 12:18:43: INFO: Clicked on the element
+2023-05-16 12:18:43: INFO: Step passed:user clicks on Login button
+2023-05-16 12:18:43: INFO: Step failed, An exception occurred in step:user can enter email id on login page
+Traceback (most recent call last):
+  File "C:\Users\PrajithThacharazhiya\PycharmProjects\PYBAF\configuretest\ReadTestData.py", line 12, in getTestData
+    jsonData = data[arrayName]
+KeyError: 'Credentials'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PrajithThacharazhiya\PycharmProjects\PYBAF\tests\test_forgotyourpassword.py", line 34, in enterEmailID
+    username = self.r.getTestData("Credentials", "username")
+  File "C:\Users\PrajithThacharazhiya\PycharmProjects\PYBAF\configuretest\ReadTestData.py", line 18, in getTestData
+    raise Exception(e)
+Exception: 'Credentials'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "steps\forgotpassword-definition.py", line 23, in click_resetBtn
+    context.objForgotPassword.enterEmailID()
+  File "C:\Users\PrajithThacharazhiya\PycharmProjects\PYBAF\tests\test_forgotyourpassword.py", line 37, in enterEmailID
+    raise Exception(e)
+Exception: 'Credentials'
+2023-05-16 12:18:43: INFO: Browser closed

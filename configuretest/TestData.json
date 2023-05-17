@@ -1,0 +1,15 @@
+{
+  "Journey": [{
+    "path": "C://Users//PrajithThacharazhiya//PycharmProjects//PYBAF//features"
+    }],
+  "URL": [{
+     "url": "https://www.yatra.com/"
+   }],
+  "Credentials": [{
+     "username": "abc1213"
+   }],
+  "Reports": [{
+    "Screenshot": "all",
+    "Log": "True"
+  }]
+}

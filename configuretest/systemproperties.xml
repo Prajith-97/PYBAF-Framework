@@ -1,0 +1,8 @@
+<data>
+    <browsers>
+        <browser name = "chrome">True</browser>
+        <browser name = "firefox">False</browser>
+        <browser name = "edge">True</browser>
+    </browsers>
+</data>
+
